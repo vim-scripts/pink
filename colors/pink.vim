@@ -44,7 +44,7 @@ let s:colors256 = [
     \ ["FoldedColumn",  "NONE", "238",  "255"   ],
     \ ["FoldColumn",    "NONE", "225",  "255"   ],
     \ ["Directory",     "NONE", "28",   "NONE"  ],
-    \ ["LineNr",        "NONE", "63",   "228"   ],
+    \ ["LineNr",        "NONE", "238",  "255"   ],
     \ ["NonText",       "NONE", "238",  "225"   ],
     \ ["SpecialKey",    "NONE", "9",    "NONE"  ],
     \ ["Title",         "BOLD", "18",   "NONE"  ],
